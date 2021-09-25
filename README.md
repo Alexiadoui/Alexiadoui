@@ -2,6 +2,7 @@
 - 👀 I’m interested in uxui design, sports, education, environment and innovation.
 - 🌱 I’m currently BEING MENTORED FOR MY START UP EARLY STAGE 
 - 💞️ I’m looking to RECRUIT A GREAT TEAM for my triple impact dev.
+- I know my project is ambitious but ambition is a requitement to make a massive positive change for the planet.
 - 📫 Mail me alexiauxui@gmail.com
 
 <!---
