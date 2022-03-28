@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alexiadoui
 - 👀 I’m interested in uxui design, sports, education, environment and innovation.
-- 🌱 I’m currently BEING MENTORED FOR MY START UP EARLY STAGE 
 
 - 📫 Mail me alexiauxui@gmail.com
 
