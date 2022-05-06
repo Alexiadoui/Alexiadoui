@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexiadoui
-- 👀 I’m interested in uxui design, sports, education, environment and innovation.
+- 👀 I’m interested in interaction design, sports, education, environment and innovation.
 
 - 📫 Mail me alexiauxui@gmail.com
 
