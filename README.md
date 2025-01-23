@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Alexiadoui
-- 👀 I’m interested in interaction design, sports, education, environment and innovation.
 
-- 📫 Mail me alexiauxui@gmail.com
+
+- 📫 Mail me aledesignuxui@gmail.com
 
 <!---
 Alexiadoui/Alexiadoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
